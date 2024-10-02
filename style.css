@@ -18,7 +18,8 @@ html,body{
 }
 header{
     display: flex;
-    height: 10%;
+    height: 10vh;
+    width: 100vw;
     background-color: #222227;
     position: relative;
     align-items: center;
@@ -37,7 +38,7 @@ header ul{
 }
 header ul li{
     list-style: none;
-    
+    margin-right: 20px;
     
 }
 header ul li a{
@@ -366,7 +367,7 @@ h5{
     background-color: black;
     position: relative;
     text-align: center;
-   
+
 }
 
 .footer #links1{
